@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: offshore-proxy-server
+server:
+  port: 9091
